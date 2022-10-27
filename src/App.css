@@ -1,0 +1,28 @@
+
+.App {
+    width: 550px;
+    height: 550px;
+}
+
+/* ================
+    Header
+   ================ */
+
+.header {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    align-items: center;
+    height: 4rem;
+    padding: 1em;
+    color: #fff;
+}
+
+.header--img {
+    height: 100%;
+    margin-right: 0.5em;
+}
+
+.header--title {
+    margin-right: auto;
+}
+
